@@ -1,9 +1,9 @@
 <h1>Energy Efficiency in New York City</h1>
 
 <h2>Datasets</h2>
-<li>https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh/about_data</li>
-<li>https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/lead/?id=16#display=summary</li>
-<li>https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/air-quality/?id=2024#display=summary</li>
+  <li>https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh/about_data</li>
+  <li>https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/lead/?id=16#display=summary</li>
+  <li>https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/air-quality/?id=2024#display=summary</li>
 
 <h2>Background</h2>
 
@@ -17,3 +17,11 @@ As the most populous city in America, New York City can benefit from an increase
 
 
 <h2>Summary</h2>
+
+I identified the average ENERGY STAR score per property for each borough, and visualized energy efficiency both citywide and throughout the least efficient NYC borough.
+
+I compared energy efficiency by property type to understand which properties within certain areas are least energy efficien.
+
+I analyzed each borough’s concentration of older housing to understand potential effects of older construction practices on energy efficiency.
+
+I analyzed the correlation between levels of air pollution and energy efficiency per borough to understand the potential environmental effects of energy inefficiency.
