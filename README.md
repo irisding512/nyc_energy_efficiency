@@ -1,12 +1,13 @@
 <h1>Energy Efficiency in New York City</h1>
 
+<h2>Datasets</h2>
 <li>https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh/about_data</li>
 <li>https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/lead/?id=16#display=summary</li>
 <li>https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/air-quality/?id=2024#display=summary</li>
 
 <h2>Background</h2>
 
-For this project, I was inspired by how digital twin technology can be used to develop smarter cities.
+For this project, I was inspired by digital twin technology, and how it can be used to develop smarter cities.
 
 Digital twin technology has previously been used in New York City by Columbia researchers to optimize traﬀic management systems in Harlem. 
 Sensors from roadside infrastructure and local vehicles provide data for machine learning models to simulate traﬀic flows, providing a foundation for smarter driving assistant applications.
