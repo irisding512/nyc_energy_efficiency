@@ -1,1 +1,0 @@
-# nyc_energy_efficiency
