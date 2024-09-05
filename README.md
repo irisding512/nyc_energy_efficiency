@@ -25,3 +25,19 @@ I compared energy efficiency by property type to understand which properties wit
 I analyzed each borough’s concentration of older housing to understand potential effects of older construction practices on energy efficiency.
 
 I analyzed the correlation between levels of air pollution and energy efficiency per borough to understand the potential environmental effects of energy inefficiency.
+
+<h2>Conclusion</h2>
+
+When looking at property type, data centers outperformed all other property types by a significant amount. Hospitals, residence halls, and courthouses appeared more efficient than other property types, while supercenters, wastewater treatment plants, and worship facilities appeared less efficient than other property types.
+
+When looking at the data geographically, property data points were most concentrated in Manhattan and the west of the Bronx, and most sparse in Staten Island and the periphery of Queens. There was a large distribution of inefficient properties in the north of Manhattan and the west of the Bronx, and a large distribution of highly efficient properties (dark green) in central Manhattan. The highest concentration of low-efficiency properties in the Bronx were found within Community Districts 6 and 3, and parts of 9 and 2.
+
+When looking at potential correlations between older housing and energy efficiency, a big discrepancy was seen in Staten Island, with the lowest old home proportion and highest energy efficiency. The highest proportion of old homes was found in Brooklyn. It was difficult to determine the relationship overall, but there appears to be a possible negative correlation between Brooklyn, Queens, and Staten Island.
+
+There also seems to be an overall negative correlation between air pollutant concentration and energy efficiency, with the exception of highest air pollutant concentrations found in Manhattan despite having the second highest energy efficiency.
+
+
+
+
+
+
